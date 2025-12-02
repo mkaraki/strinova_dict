@@ -1,82 +1,82 @@
 !!ATOK_TANGO_TEXT_HEADER_1
 !! vim: noautoindent noexpandtab tabstop=8 shiftwidth=8 filetype=tsv fileencoding=sjis fileformat=dos
 !! ==============================================
-!! Strinova ���{�ꎫ���iATOK�����j
+!! Strinova 日本語辞書（ATOK向け）
 !! ==============================================
-���Ƃ�̂��J��	�X�g���m���@	�ŗL���i	TPS�Q�[��	���Ȃ�	Strinova
-!! �L����
-�ꂨ��	���I�i	�ŗL�l��	Strinova
-!! �ǂݕ����͂����肵�Ȃ�����2���ǉ�
-�䂤����	�[��	�ŗL�l��	Strinova
-�䂬��	�[��	�ŗL�l��	Strinova
-����Ă�	�K���e�A	�ŗL�l��	Strinova
-�݂�����	�~�V�F��	�ŗL�l��	Strinova
-!! English�ł̓ǂ�
-�݂�	��	�ŗL�l��	Strinova
-�܂���[��	�}�_���[�i	�ŗL�l��	Strinova
-�����J������	�C���F�b�g	�ŗL�l��	Strinova
-�߂�ł���	�����f�B�X	�ŗL�l��	Strinova
-������	�S��	�ŗL�l��	Strinova
-�炤�J���[��	�����B�[�l	�ŗL�l��	Strinova
-���[�ǂ�[	�I�[�h���[	�ŗL�l��	Strinova
-�̂ԂȂ�	�M��	�ŗL�l��	Strinova
-�ꂢ����	�߈�	�ŗL�l��	Strinova
-�ӂ�[����	�t���[�V��	�ŗL�l��	Strinova
-�ӂ炤�J����	�t�����B�A	�ŗL�l��	Strinova
-���Ȃ�	���ؔ�	�ŗL�l��	Strinova
-!! English�ł̓ǂ�
-�΂���	���n	�ŗL�l��	Strinova
-������	�A�C�J	�ŗL�l��	Strinova
-�ӂ炮���	�t���O�����X	�ŗL�l��	Strinova
-!! �}�b�v
-404����	404��n	�ŗL�n��	Strinova
-88��	88��	�ŗL�n��	Strinova
-�I�C���[����	�I�C���[�`	�ŗL�n��	Strinova
-������ł�������	�E�B���e�B�^�E��	�ŗL�n��	Strinova
-������ł��[������	�E�B���e�B�[�^�E��	�ŗL�n��	Strinova �~�E�B���f�B�[ ���E�B���f�B	�E�B���f�B�^�E��
-���؁[�����񂫂イ���񂽁[	�X�y�[�X�����Z���^�[	�ŗL�n��	Strinova
-���[���[������	�R�[�V�[�X��	�ŗL�n��	Strinova
-�����߂���	�L�X���b�g	�ŗL�n��	Strinova
-2����������	2���q��	�ŗL�n��	Strinova
-�ł����ȁ[���Ƃ��ρ[��	�f�U�C�i�[�Y�g�C�p�[�N	�ŗL�n��	Strinova
-�������イ�͂ł񂵂�	�������d��	�ŗL�n��	Strinova
-�݂ȂƂ܂�	�`��	�ŗL�n��	Strinova
-!! �Ԗ��|����͓ǂݕs���Ŗ����^
-���ق���	�Ǖ��n	�ŗL�n��	Strinova
-�������������傤	�A�N�T�H��	�ŗL�n��	Strinova
-������Ђ�����	�ጴ�E����	�ŗL�n��	Strinova
-������E�Ђ�����	�ጴ�E����	�ŗL�n��	Strinova
-!! ����
-���񂷂؂����[	�C���X�y�N�^�[	�ŗL���i	Strinova
-�������	�W���b�W	�ŗL���i	Strinova
-�����[���[	�N�G�[�T�[	�ŗL���i	Strinova
-�ӂ낷��	�t���X�g	�ŗL���i	Strinova
-���낾��	�\���_���X	�ŗL���i	Strinova
-�ӂ��邱��	�t�@���R��	�ŗL���i	Strinova
-��΁[���ӂꂢ��	���o�[�X�t���C��	�ŗL���i	Strinova
-����ǂ��������	�V���h�E�A�T���g	�ŗL���i	Strinova
-�ǁ[��	�h�[��	�ŗL���i	Strinova
-�ӂ��ȁ[��	�t�B�i�[��	�ŗL���i	Strinova
-���̂炷�ӂ�����	�\�m���X�t�@�C�A	�ŗL���i	Strinova
-���[�Ƃ��[��	�\�[�g�D�[�X	�ŗL���i	Strinova
-�ۂ�肷	�|�����X	�ŗL���i	Strinova
-�����҂���	�`�����s�I��	�ŗL���i	Strinova
-�ӂ�[������	�t���[�E�B��	�ŗL���i	Strinova
-�����	�N���}	�ŗL���i	Strinova
-�Ԃ������	�u���b�T��	�ŗL���i	Strinova
-�Ƃ���������[	�g���b�N�X�^�[	�ŗL���i	Strinova
-����ӂ��[���[	�G���t�H�[�T�[	�ŗL���i	Strinova
-�����Ԃ�[��	�L�����u���[�^	�ŗL���i	Strinova
-!! �T�u����
-�݂΂�	�݂΂�	�ŗL���i	Strinova
-!! English�ł̓ǂ�
-�ɂ񂶂�Ƃ�	�E��	�ŗL���i	Strinova
-����΁[���҂���	�G���o�[�X�s�b�g	�ŗL���i	Strinova
-���Ă�	�A�e�i	�ŗL���i	Strinova
-�����ɂ�	�C�O�j�X	�ŗL���i	Strinova
-!! ��p�A�C�e���i��ʓI�ȕ��͏ȗ��j
-���񂽁[���Ղ��[	�C���^�[�Z�v�^�[	�ŗL���i	Strinova
-���񂻂��ڂ�	�����{��	�ŗL���i	Strinova
-�ӂ��炢�ڂ�	�����{��	�ŗL���i	Strinova
-!! ���̑��p��
-����	����	�����T��	Strinova
+すとりのう゛ぁ	ストリノヴァ	固有商品	TPSゲーム	しない	Strinova
+!! キャラ
+れおな	レオナ	固有人他	Strinova
+!! 読み方がはっきりしないため2件追加
+ゆうぎり	夕霧	固有人他	Strinova
+ゆぎり	夕霧	固有人他	Strinova
+がらてあ	ガラテア	固有人他	Strinova
+みしぇる	ミシェル	固有人他	Strinova
+!! English版の読み
+みん	明	固有人他	Strinova
+まだれーな	マダレーナ	固有人他	Strinova
+いう゛ぇっと	イヴェット	固有人他	Strinova
+めれでぃす	メレディス	固有人他	Strinova
+ここな	心夏	固有人他	Strinova
+らう゛ぃーね	ラヴィーネ	固有人他	Strinova
+おーどりー	オードリー	固有人他	Strinova
+のぶなが	信長	固有人他	Strinova
+れいいち	令一	固有人他	Strinova
+ふゅーしゃ	フューシャ	固有人他	Strinova
+ふらう゛ぃあ	フラヴィア	固有人他	Strinova
+かなみ	香菜美	固有人他	Strinova
+!! English版の読み
+ばいも	白墨	固有人他	Strinova
+あいか	アイカ	固有人他	Strinova
+ふらぐらんす	フラグランス	固有人他	Strinova
+!! マップ
+404きち	404基地	固有地名	Strinova
+88く	88区	固有地名	Strinova
+オイラーこう	オイラー港	固有地名	Strinova
+うぃんでぃたうん	ウィンティタウン	固有地名	Strinova
+うぃんでぃーたうん	ウィンティータウン	固有地名	Strinova ×ウィンディー ○ウィンディ	ウィンディタウン
+すぺーすけんきゅうせんたー	スペース研究センター	固有地名	Strinova
+こーしーがいく	コーシー街区	固有地名	Strinova
+きすめっと	キスメット	固有地名	Strinova
+2ごうそうこ	2号倉庫	固有地名	Strinova
+でざいなーずといぱーく	デザイナーズトイパーク	固有地名	Strinova
+すいちゅうはつでんしょ	水中発電所	固有地名	Strinova
+みなとまち	港町	固有地名	Strinova
+!! 花明弓道場は読み不明で未収録
+ついほうち	追放地	固有地名	Strinova
+あくさこうじょう	アクサ工場	固有地名	Strinova
+せつげんひがしく	雪原・東区	固有地名	Strinova
+せつげん・ひがしく	雪原・東区	固有地名	Strinova
+!! 武器
+いんすぺくたー	インスペクター	固有商品	Strinova
+じゃっじ	ジャッジ	固有商品	Strinova
+くえーさー	クエーサー	固有商品	Strinova
+ふろすと	フロスト	固有商品	Strinova
+そろだんす	ソロダンス	固有商品	Strinova
+ふぁるこん	ファルコン	固有商品	Strinova
+りばーすふれいむ	リバースフレイム	固有商品	Strinova
+しゃどうあさると	シャドウアサルト	固有商品	Strinova
+どーん	ドーン	固有商品	Strinova
+ふぃなーれ	フィナーレ	固有商品	Strinova
+そのらすふぁいあ	ソノラスファイア	固有商品	Strinova
+そーとぅーす	ソートゥース	固有商品	Strinova
+ぽらりす	ポラリス	固有商品	Strinova
+ちゃんぴおん	チャンピオン	固有商品	Strinova
+ふりーうぃる	フリーウィル	固有商品	Strinova
+くろま	クロマ	固有商品	Strinova
+ぶろっさむ	ブロッサム	固有商品	Strinova
+とりっくすたー	トリックスター	固有商品	Strinova
+えんふぉーさー	エンフォーサー	固有商品	Strinova
+きゃりぶれーた	キャリブレータ	固有商品	Strinova
+!! サブ武器
+みつばち	みつばち	固有商品	Strinova
+!! English版の読み
+にんじゃとう	忍刀	固有商品	Strinova
+えんばーすぴっと	エンバースピット	固有商品	Strinova
+あてな	アテナ	固有商品	Strinova
+いぐにす	イグニス	固有商品	Strinova
+!! 戦術アイテム（一般的な物は省略）
+いんたーせぷたー	インターセプター	固有商品	Strinova
+げんそくぼむ	減速ボム	固有商品	Strinova
+ふうらいぼむ	風雷ボム	固有商品	Strinova
+!! その他用語
+げんか	弦化	名詞サ変	Strinova

@@ -1,0 +1,29 @@
+{
+    "files.autoGuessEncoding": true,
+    "files.encodingOrder": [
+        "utf8",
+        "shiftjis"
+    ],
+    "files.associations": {
+        "*.txt": "tsv"
+    },
+    "editor.insertSpaces": false,
+    "files.eol": "\n",
+    "[properties]": {
+        "editor.tabSize": 8,
+        "editor.insertSpaces": false,
+        "files.encoding": "utf8"
+    },
+    "[tsv]": {
+        "editor.tabSize": 8,
+        "editor.insertSpaces": false,
+        "files.eol": "\r\n",
+        "files.encoding": "shiftjis"
+    },
+    "[plaintext]": {
+        "editor.tabSize": 8,
+        "editor.insertSpaces": false,
+        "files.eol": "\r\n",
+        "files.encoding": "shiftjis"
+    },
+}
